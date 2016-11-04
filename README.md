@@ -75,7 +75,9 @@ module.exports = config
 #### Config webhook
 
 * I advise you to watch this [video](https://www.youtube.com/watch?v=IwgPBJ2FWO8) you don't need to do the IP part.
-* url of your webhook: add the ngrok uri/webhook don't forget webhook if not it will not work ```https://fbc76100.ngrok.io/webhook```
+* [Line devlopeur page](https://developers.line.me/ba/)
+* url of your webhook: add the ngrok uri/webhook don't forget webhook if not it will not work.
+* Example of uri :```https://fbc76100.ngrok.io/webhook```
 [logo]: https://raw.githubusercontent.com/RecastAI/bot-line/master/ressource/dev-panel.jpg "dev"
 
 ![alt text][logo]
