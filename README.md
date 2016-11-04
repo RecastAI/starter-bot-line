@@ -28,7 +28,7 @@
 * On your phone you need to set suscribe by email.
 * Launch line click on the 3 dot.
 
-[logo]: https://blog.recast.ai/wp-content/uploads/2016/08/HcqvGX.gif "Seeting"
+[logo]: https://raw.githubusercontent.com/RecastAI/bot-line/master/ressource/screen-setting.jpg "Seeting"
 
 ![alt text][logo]
 
@@ -75,7 +75,7 @@ module.exports = config
 
 * I advise you to watch this [video](https://www.youtube.com/watch?v=IwgPBJ2FWO8) you don't need to do the IP part.
 * url of your webhook: add the ngrok uri/webhook don't forget webhook if not it will not work ```https://fbc76100.ngrok.io/webhook```
-[logo]: https://blog.recast.ai/wp-content/uploads/2016/08/HcqvGX.gif "dev"
+[logo]: https://raw.githubusercontent.com/RecastAI/bot-line/master/ressource/dev-panel.jpg "dev"
 
 ![alt text][logo]
 * the purple part is the QR code you can scan from your app to speak to your BOT after Launching it.
