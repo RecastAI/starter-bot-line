@@ -39,6 +39,7 @@
 * [Second video](https://www.youtube.com/watch?v=ZOvJU-UwI7Q)
 * [Third video](https://www.youtube.com/watch?v=rD27Pd13b_Q)
 * if you need help [Line doc](https://developers.line.me/messaging-api/getting-started)
+
 ## Start your bot in local
 
 ```bash
@@ -81,6 +82,7 @@ module.exports = config
 * the purple part is the QR code you can scan from your app to speak to your BOT after Launching it.
 * the blue part your whebook url.
 * the red part is your LINE_TOKEN
+
 ## Launching your Bot
 ```
 npm install
