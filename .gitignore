@@ -1,0 +1,5 @@
+node_modules
+*.log
+doc/
+*.swp
+config.js
