@@ -18,7 +18,7 @@ app.use(bodyParser.json())
 app.post('/webhook', (req, res) => {
   const events = req.body.events
   events.forEach(event => handleMessage(event))
-  res.status(200).send(req.query['hub.challenge'])
+  res.status(200)
 })
 
 app.listen(app.get('port'), () => {
