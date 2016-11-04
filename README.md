@@ -28,9 +28,9 @@
 * On your phone you need to set suscribe by email.
 * Launch line click on the 3 dot.
 
-[logo]: https://raw.githubusercontent.com/RecastAI/bot-line/master/ressource/screen-setting.jpg "Seeting"
+[setting]: https://raw.githubusercontent.com/RecastAI/bot-line/master/ressource/screen-setting.jpg "Seeting"
 
-![alt text][logo]
+![alt text][setting]
 
 * click on the setting/account/inscription by email
 * follow the few step
