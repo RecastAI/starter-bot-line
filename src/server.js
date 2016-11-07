@@ -2,7 +2,7 @@ import express from 'express'
 import bodyParser from 'body-parser'
 import handleMessage from './bot.js'
 /*
-* Creaction of the server
+* Creation of the server
 */
 
 const app = express()
