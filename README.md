@@ -52,7 +52,7 @@ git clone https://github.com/RecastAI/bot-line.git
 * Download the appropriate version of [Ngrok](https://ngrok.com/download).
 * Open a new tab in your terminal:
 ```
-./ngrok http 5000
+./ngrok http 8080
 ```
 * Copy past the ``` https://*******ngrok.io``` you get, you will need it for the next step.
 * Leave your Ngrok serveur running.
