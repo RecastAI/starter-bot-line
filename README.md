@@ -34,6 +34,7 @@
 
 * click on the setting/account/inscription by email
 * follow the few step
+* go to [LINE Business Center](https://business.line.me/en/)
 * follow the step of this 3 video
 * [First video](https://www.youtube.com/watch?v=051jdF5_V-A)
 * [Second video](https://www.youtube.com/watch?v=ZOvJU-UwI7Q)
