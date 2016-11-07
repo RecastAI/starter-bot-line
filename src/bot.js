@@ -15,7 +15,7 @@ function handleMessage(event) {
       const action = res.action               /* Get the object action. You can use 'action.done' to trigger a specification action when it's at true. */
 
       if (!reply) {
-        creatMessage(senderID, 'i don\'t get it :(')
+        creatMessage(senderID, ['i don\'t get it :('])
       } else {
         if (action && action.done === true) {
           console.log('action is done')
