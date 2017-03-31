@@ -1,6 +1,6 @@
 {
   "name": "Line",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "",
   "main": "bot.js",
   "scripts": {
@@ -12,7 +12,7 @@
   "dependencies": {
     "body-parser": "^1.15.2",
     "express": "^4.14.0",
-    "recastai": "^2.3.0"
+    "recastai": "^3.1.1"
   },
   "devDependencies": {
     "babel-cli": "^6.11.4",
